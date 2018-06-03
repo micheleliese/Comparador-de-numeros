@@ -34,7 +34,7 @@ tam_msg_media_todos equ     $ - msg_media_todos
 msg_resp            db      10, "Resposta: "
 tam_msg_resp        equ     $ - msg_resp
 
-msg_erro            db      10, "Comando inválido! Fim da execução.",10
+msg_erro            db      10, "Comando inválido!Fim da execução.",10
 tam_msg_erro        equ     $ - msg_erro
 
 virgula             db      ", "
